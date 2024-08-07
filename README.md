@@ -6,7 +6,7 @@ The Kaggle Global Superstore dataset is a comprehensive dataset containing infor
 
 Aim of the Project: analyze the performance of the superstore by examining sales, profit, and customer behavior across different regions, product categories, and market segments. This project aims to provide actionable insights into sales trends, customer purchasing patterns, and operational efficiency, with a focus on improving profitability and strategic decision-making through data-driven analysis.
 
-## Methodology
+## Steps:
 
 1. **Data Cleaning and Preparation:**
    - Handle missing values and inconsistencies.
