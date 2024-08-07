@@ -46,5 +46,8 @@ Some key analyses and insights that can be explore:
 10. Correlation Analysis:
 - Correlation Between Variables: Explore the relationships between variables such as quantity and sales, or discount and profit, to identify any significant correlations.
 
-11. Visualization:
+11. Create and Implement a MySQL Database:
+- Design and create a MySQL database schema to store and manage the superstore's data efficiently.
+
+12. Visualization:
 - Dashboards: Create visualizations and dashboards to provide an overview of sales, profit, and other key metrics. 
