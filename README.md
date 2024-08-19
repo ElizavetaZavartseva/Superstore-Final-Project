@@ -1,5 +1,7 @@
 # Superstore-Final-Project
 
+Link for slides presentation: https://www.canva.com/design/DAGNuE-ojQM/Q1K9qrWHPURrg91Tl6IqrA/edit?utm_content=DAGNuE-ojQM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
 Dataset: https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset/data 
 
 The Kaggle Global Superstore dataset is a comprehensive dataset containing information about sales and orders in a global superstore. It is a valuable resource for data analysis and visualization tasks.
@@ -9,17 +11,19 @@ Aim of the Project: analyze the performance of the superstore by examining sales
 ## Steps:
 
 1. **Data Cleaning and Preparation:**
+   - Removing irrelevant columns.
    - Handle missing values and inconsistencies.
-   - Convert data types as needed.
+   - Identify and deal with duplicated values.
+   - Standardize Data.
 
-2. **Exploratory Data Analysis (EDA):**
+3. **Exploratory Data Analysis (EDA):**
    - Visualize and summarize key metrics.
    - Identify trends, correlations, and anomalies.
 
-3. **Performance Analysis:**
+4. **Performance Analysis:**
    - Evaluate sales, profit, and other key metrics by region, product, and customer segment.
 
-4. **Trend Analysis:**
+5. **Trend Analysis:**
    - Analyze time-based trends to understand seasonal patterns and growth trajectories.
 
 6. **Database Schema Creation:**
